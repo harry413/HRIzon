@@ -287,7 +287,7 @@ function EmployeeCard({ match }: { match?: Match }) {
     employee: {
       id: 0,
       name: "Sachin Patidar",
-      email: "example@gmail.com"
+      email: "example@gmail.com",
       skills: ["React Js", "Node js"],
       experience_years: 2,
       projects: ["Project 1"],
