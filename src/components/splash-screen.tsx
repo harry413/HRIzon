@@ -89,7 +89,7 @@ export default function SplashScreen({ durationMs = 120000, onDismiss = () => {}
 
       <div className="relative z-10 flex w-full max-w-3xl flex-col items-center gap-6 px-6 text-center">
         <div className="space-y-2">
-          <Brain  className="h-4 w-4"/>
+          <Brain  className="h-12 w-12 text-center"/>
           <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl">
             HRIzon
           </h1>
