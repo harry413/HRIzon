@@ -12,7 +12,7 @@ export const employees: Employee[] = [
   {
     id: 1,
     name: 'Alice Johnson',
-    emai: 'alicejohnson@gmail.com',
+    email: 'alicejohnson@gmail.com',
     skills: ['Python', 'React', 'AWS', 'Docker', 'scikit-learn', 'Pandas'],
     experience_years: 5,
     projects: ['E-commerce Platform', 'Healthcare Dashboard'],
@@ -21,7 +21,7 @@ export const employees: Employee[] = [
   {
     id: 2,
     name: 'Michael Rodriguez',
-    emai: 'michaelrodrigues12@gmail.com',
+    email: 'michaelrodrigues12@gmail.com',
     skills: ['Python', 'Machine Learning', 'scikit-learn', 'Pandas', 'AWS'],
     experience_years: 4,
     projects: ['Patient Risk Prediction System', 'Fraud Detection Service'],
@@ -30,7 +30,7 @@ export const employees: Employee[] = [
   {
     id: 3,
     name: 'Sarah Chen',
-    emai: 'chensarah31@gmail.com',
+    email: 'chensarah31@gmail.com',
     skills: ['Machine Learning', 'TensorFlow', 'PyTorch', 'Computer Vision', 'Python', 'GCP'],
     experience_years: 6,
     projects: ['Medical Diagnosis Platform', 'X-ray Analysis Pipeline'],
@@ -39,7 +39,7 @@ export const employees: Employee[] = [
   {
     id: 4,
     name: 'David Kim',
-    emai: 'david413@gmail.com',
+    email: 'david413@gmail.com',
     skills: ['React Native', 'React', 'TypeScript', 'Node.js', 'GraphQL'],
     experience_years: 5,
     projects: ['Social Media App', 'Fitness Tracker'],
@@ -48,7 +48,7 @@ export const employees: Employee[] = [
   {
     id: 5,
     name: 'Priya Singh',
-    emai: 'priya123@gmail.com',
+    email: 'priya123@gmail.com',
     skills: ['AWS', 'Docker', 'Kubernetes', 'Terraform', 'DevOps', 'CI/CD'],
     experience_years: 7,
     projects: ['Infrastructure Modernization', 'EKS Migration'],
@@ -57,6 +57,7 @@ export const employees: Employee[] = [
   {
     id: 6,
     name: 'James Wilson',
+    email: 'wilson789@gmail.com',
     skills: ['React', 'Next.js', 'Node.js', 'PostgreSQL'],
     experience_years: 3,
     projects: ['CRM Migration', 'Customer Portal'],
@@ -65,7 +66,7 @@ export const employees: Employee[] = [
   {
     id: 7,
     name: 'Maria Garcia',
-    emai: 'mariyagarcia222@gmail.com',
+    email: 'mariyagarcia222@gmail.com',
     skills: ['NLP', 'Python', 'spaCy', 'Transformers', 'Azure'],
     experience_years: 5,
     projects: ['Content Moderation System', 'Support Ticket Classifier'],
@@ -74,7 +75,7 @@ export const employees: Employee[] = [
   {
     id: 8,
     name: 'Ethan Brown',
-    emai: 'brown543n@gmail.com',
+    email: 'brown543n@gmail.com',
     skills: ['Go', 'Docker', 'Kubernetes', 'GCP', 'Microservices'],
     experience_years: 6,
     projects: ['Logistics Optimization', 'Telemetry Processing'],
@@ -92,7 +93,7 @@ export const employees: Employee[] = [
   {
     id: 10,
     name: 'Robert Lee',
-    emai: 'robert999@gmail.com',
+    email: 'robert999@gmail.com',
     skills: ['Java', 'Spring Boot', 'AWS', 'Docker', 'PostgreSQL'],
     experience_years: 8,
     projects: ['Banking API', 'Payment Gateway'],
@@ -101,7 +102,7 @@ export const employees: Employee[] = [
   {
     id: 11,
     name: 'Olivia Perez',
-    emai: 'olivia234@gmail.com',
+    email: 'olivia234@gmail.com',
     skills: ['Python', 'Data Engineering', 'Airflow', 'Spark', 'AWS'],
     experience_years: 5,
     projects: ['Data Lake Ingestion', 'Analytics Warehouse'],
@@ -110,7 +111,7 @@ export const employees: Employee[] = [
   {
     id: 12,
     name: 'Daniel Thompson',
-    emai: 'thompsondaniel@gmail.com',
+    email: 'thompsondaniel@gmail.com',
     skills: ['C#', '.NET', 'Azure', 'Docker'],
     experience_years: 6,
     projects: ['Healthcare Claims Processing', 'Scheduling System'],
@@ -119,7 +120,7 @@ export const employees: Employee[] = [
   {
     id: 13,
     name: 'Nina Patel',
-    emai: 'patelnina123@gmail.com',
+    email: 'patelnina123@gmail.com',
     skills: ['Machine Learning', 'NLP', 'Python', 'scikit-learn'],
     experience_years: 3,
     projects: ['Chatbot', 'Text Summarization'],
@@ -128,7 +129,7 @@ export const employees: Employee[] = [
   {
     id: 14,
     name: 'William Anderson',
-    emai: 'william89@gmail.com',
+    email: 'william89@gmail.com',
     skills: ['DevOps', 'AWS', 'Docker', 'Kubernetes', 'Helm', 'CI/CD'],
     experience_years: 9,
     projects: ['Observability Stack', 'Zero-Downtime Deployments'],
@@ -137,7 +138,7 @@ export const employees: Employee[] = [
   {
     id: 15,
     name: 'Sophia Nguyen',
-    emai: 'sophiya123@gmail.com',
+    email: 'sophiya123@gmail.com',
     skills: ['React', 'React Native', 'TypeScript', 'Tailwind', 'Node.js'],
     experience_years: 4,
     projects: ['Education Learning Platform', 'Study Companion App'],
@@ -146,6 +147,7 @@ export const employees: Employee[] = [
   {
     id: 16,
     name: 'Anthony Miller',
+    email: 'anthony080@gmail.com'
     skills: ['Python', 'Computer Vision', 'OpenCV', 'TensorFlow', 'AWS'],
     experience_years: 5,
     projects: ['Quality Inspection (Manufacturing)', 'Retail Shelf Analytics'],
@@ -154,7 +156,7 @@ export const employees: Employee[] = [
   {
     id: 17,
     name: 'Isabella Rossi',
-    emai: 'ross789i@gmail.com',
+    email: 'ross789i@gmail.com',
     skills: ['React', 'GraphQL', 'Node.js', 'PostgreSQL', 'AWS'],
     experience_years: 5,
     projects: ['E-commerce Platform', 'Personalization Engine'],
@@ -163,7 +165,7 @@ export const employees: Employee[] = [
   {
     id: 18,
     name: 'Liam O’Connor',
-    emai: 'liamco258@gmail.com',
+    email: 'liamco258@gmail.com',
     skills: ['Rust', 'Systems', 'Kubernetes', 'GCP'],
     experience_years: 4,
     projects: ['Real-time Analytics Pipeline', 'Edge Compute'],
@@ -172,7 +174,7 @@ export const employees: Employee[] = [
   {
     id: 19,
     name: 'Emma Wilson',
-    emai: 'wilsonemma111@gmail.com',
+    email: 'wilsonemma111@gmail.com',
     skills: ['Docker', 'AWS', 'Linux', 'Bash', 'DevOps'],
     experience_years: 3,
     projects: ['Cost Optimization', 'Backup & DR'],
@@ -181,7 +183,7 @@ export const employees: Employee[] = [
   {
     id: 20,
     name: 'Noah Davis',
-    emai: 'noah456@gmail.com',
+    email: 'noah456@gmail.com',
     skills: ['React Native', 'Kotlin', 'Swift', 'Mobile CI/CD'],
     experience_years: 6,
     projects: ['Telemedicine App', 'Wellness Tracker'],
