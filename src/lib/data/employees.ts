@@ -12,7 +12,7 @@ export const employees: Employee[] = [
   {
     id: 1,
     name: 'Alice Johnson',
-    email: 'alicejohnson@gmail.com',
+    email: 'alicejohnson55@gmail.com',
     skills: ['Python', 'React', 'AWS', 'Docker', 'scikit-learn', 'Pandas'],
     experience_years: 5,
     projects: ['E-commerce Platform', 'Healthcare Dashboard'],
