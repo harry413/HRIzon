@@ -33,6 +33,7 @@ type Message = {
 type Employee = {
   id: number;
   name: string;
+  email: string;
   skills: string[];
   experience_years: number;
   projects: string[];
@@ -286,6 +287,7 @@ function EmployeeCard({ match }: { match?: Match }) {
     employee: {
       id: 0,
       name: "Sachin Patidar",
+      email: "example@gmail.com"
       skills: ["React Js", "Node js"],
       experience_years: 2,
       projects: ["Project 1"],
@@ -344,6 +346,9 @@ function EmployeeCard({ match }: { match?: Match }) {
         <div className="text-xs text-gray-300">
           Projects: {data.employee.projects.slice(0, 2).join(", ")}
           {data.employee.projects.length > 2 ? "…" : ""}
+        </div>
+        <div className="text-xs text-gray-300">
+         email:{data.employee.name}
         </div>
         <div className="pt-1">
           <div className="text-xs font-medium text-gray-300">
