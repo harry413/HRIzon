@@ -129,7 +129,7 @@ export default function HomePage() {
   );
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-black via-gray-600 to-black">
+    <div className="min-h-screen w-full bg-gradient-to-br from-black via-gray-600 to-black">
       {showSplash && (
         <SplashScreen
           durationMs={120000}
