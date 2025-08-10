@@ -88,7 +88,7 @@ export default function SplashScreen({ durationMs = 120000, onDismiss = () => {}
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(255,255,255,0.06),transparent_40%)]" />
 
       <div className="relative z-10 flex w-full max-w-3xl flex-col items-center gap-6 px-6 text-center">
-        <div className="space-y-2 flex items-center justify-center">
+        <div className="space-y-2 flex flex-col items-center justify-center">
           <Brain  className="h-12 w-12 text-center"/>
           <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl">
             HRIzon
