@@ -84,7 +84,7 @@ export const employees: Employee[] = [
   {
     id: 9,
     name: 'Laura Martinez',
-    emai: 'lauramartinez11@gmail.com',
+    email: 'lauramartinez11@gmail.com',
     skills: ['React Native', 'Expo', 'TypeScript', 'Firebase'],
     experience_years: 4,
     projects: ['Retail Mobile POS', 'Delivery Rider App'],
