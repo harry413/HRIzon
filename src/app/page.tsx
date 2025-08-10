@@ -136,7 +136,7 @@ export default function HomePage() {
           onDismiss={() => setShowSplash(false)}
         />
       )}
-      <main className="mx-auto max-w-6xl px-4 py-6 md:py-10">
+      <main className="mx-auto max-w-full px-4 py-6 md:py-10">
         <header className="mb-6 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-slate-600 text-white">
