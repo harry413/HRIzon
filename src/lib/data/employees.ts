@@ -147,7 +147,7 @@ export const employees: Employee[] = [
   {
     id: 16,
     name: 'Anthony Miller',
-    email: 'anthony080@gmail.com'
+    email: 'anthony080@gmail.com',
     skills: ['Python', 'Computer Vision', 'OpenCV', 'TensorFlow', 'AWS'],
     experience_years: 5,
     projects: ['Quality Inspection (Manufacturing)', 'Retail Shelf Analytics'],
