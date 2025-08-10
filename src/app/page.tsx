@@ -348,7 +348,7 @@ function EmployeeCard({ match }: { match?: Match }) {
           {data.employee.projects.length > 2 ? "…" : ""}
         </div>
         <div className="text-xs text-gray-300">
-         email:{data.employee.name}
+         email:{data.employee.email}
         </div>
         <div className="pt-1">
           <div className="text-xs font-medium text-gray-300">
