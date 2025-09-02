@@ -16,7 +16,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "React", "AWS", "Docker", "scikit-learn", "Pandas"],
     "experience_years": 5,
     "projects": ["E-commerce Platform", "Healthcare Dashboard"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Machine Learning", "scikit-learn", "Pandas", "AWS"],
     "experience_years": 4,
     "projects": ["Patient Risk Prediction System", "Fraud Detection Service"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 3,
@@ -34,7 +34,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 4,
@@ -43,7 +43,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Spring Boot", "PostgreSQL", "Kubernetes", "GCP"],
     "experience_years": 7,
     "projects": ["Banking API Service", "Microservices Architecture Migration"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 5,
@@ -61,7 +61,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 7,
@@ -70,7 +70,7 @@ export const employees: Employee[] = [
     "skills": ["Swift", "iOS Development", "UIKit", "CoreData", "XCode"],
     "experience_years": 4,
     "projects": ["Mobile E-commerce App", "Fitness Tracking iOS App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 8,
@@ -79,7 +79,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Android Development", "Jetpack Compose", "Firebase"],
     "experience_years": 5,
     "projects": ["Food Delivery Android App", "Social Networking Mobile App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 9,
@@ -88,7 +88,7 @@ export const employees: Employee[] = [
     "skills": ["HTML", "CSS", "JavaScript", "Vue.js", "Firebase", "TailwindCSS"],
     "experience_years": 2,
     "projects": ["Portfolio Website", "Interactive Landing Page"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 11,
@@ -106,7 +106,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Django", "Celery", "Redis", "PostgreSQL"],
     "experience_years": 5,
     "projects": ["Task Management System", "Content Management System (CMS)"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 12,
@@ -115,7 +115,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby", "Ruby on Rails", "Heroku", "Sidekiq"],
     "experience_years": 9,
     "projects": ["Subscription Billing Platform", "E-learning Portal"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 13,
@@ -133,7 +133,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 15,
@@ -151,7 +151,7 @@ export const employees: Employee[] = [
     "skills": ["Terraform", "Ansible", "Jenkins", "AWS", "Kubernetes"],
     "experience_years": 8,
     "projects": ["Infrastructure as Code (IaC) Setup", "CI/CD Pipeline Automation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 17,
@@ -160,7 +160,7 @@ export const employees: Employee[] = [
     "skills": ["React Native", "Firebase", "JavaScript", "Redux"],
     "experience_years": 3,
     "projects": ["Cross-Platform Social App", "Mobile Inventory Manager"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 18,
@@ -169,7 +169,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@ export const employees: Employee[] = [
     "skills": ["SQL", "Tableau", "Power BI", "Data Warehousing", "ETL"],
     "experience_years": 10,
     "projects": ["Business Intelligence Dashboard Suite", "Sales Data Analysis Report"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 21,
@@ -196,7 +196,7 @@ export const employees: Employee[] = [
     "skills": ["Cybersecurity", "Penetration Testing", "Metasploit", "Wireshark"],
     "experience_years": 6,
     "projects": ["Vulnerability Assessment for a Financial App", "Network Security Audit"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 22,
@@ -205,7 +205,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 23,
@@ -223,7 +223,7 @@ export const employees: Employee[] = [
     "skills": ["Machine Learning", "NLP", "spaCy", "NLTK", "Hugging Face"],
     "experience_years": 7,
     "projects": ["Sentiment Analysis Engine", "Chatbot for Customer Service"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 25,
@@ -241,7 +241,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 27,
@@ -250,7 +250,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Figma", "Sketch", "Adobe XD", "User Research"],
     "experience_years": 6,
     "projects": ["Mobile App Redesign", "Website Usability Testing"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 28,
@@ -277,7 +277,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 31,
@@ -286,7 +286,7 @@ export const employees: Employee[] = [
     "skills": ["GCP", "BigQuery", "Dataflow", "Cloud Functions"],
     "experience_years": 5,
     "projects": ["Serverless Data Processing Workflow", "Big Data Analytics Platform"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 32,
@@ -295,7 +295,7 @@ export const employees: Employee[] = [
     "skills": ["Elixir", "Phoenix", "Ecto", "LiveView"],
     "experience_years": 6,
     "projects": ["Fault-Tolerant Web Application", "Real-time Collaboration Tool"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 33,
@@ -313,7 +313,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 35,
@@ -322,7 +322,7 @@ export const employees: Employee[] = [
     "skills": ["Svelte", "SvelteKit", "JavaScript", "Vite"],
     "experience_years": 2,
     "projects": ["Fast Static Blog", "Component Library"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 36,
@@ -349,7 +349,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 39,
@@ -358,7 +358,7 @@ export const employees: Employee[] = [
     "skills": ["Solidity", "Ethereum", "Web3.js", "Truffle", "Smart Contracts"],
     "experience_years": 3,
     "projects": ["Decentralized Application (dApp)", "NFT Marketplace"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 40,
@@ -376,7 +376,7 @@ export const employees: Employee[] = [
     "skills": ["React", "Next.js", "Vercel", "GraphQL", "Server-Side Rendering"],
     "experience_years": 4,
     "projects": ["High-Performance Marketing Website", "Jamstack Blog"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 42,
@@ -385,7 +385,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 43,
@@ -394,7 +394,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "scikit-learn", "XGBoost", "Feature Engineering"],
     "experience_years": 5,
     "projects": ["Credit Scoring Model", "Customer Lifetime Value Prediction"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 44,
@@ -403,7 +403,7 @@ export const employees: Employee[] = [
     "skills": ["Node.js", "TypeScript", "Serverless Framework", "AWS Lambda", "DynamoDB"],
     "experience_years": 6,
     "projects": ["Serverless API Backend", "Event-Driven Architecture"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 45,
@@ -421,7 +421,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 47,
@@ -439,7 +439,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "FastAPI", "Pydantic", "Docker", "AsyncIO"],
     "experience_years": 3,
     "projects": ["High-Speed Data Validation Service", "Machine Learning Model Serving API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 49,
@@ -448,7 +448,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Spring Boot", "WebFlux", "Reactive Programming"],
     "experience_years": 5,
     "projects": ["Reactive Microservice", "Live Data Streaming API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 50,
@@ -457,7 +457,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 51,
@@ -466,7 +466,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Flask", "SQLAlchemy", "Jinja2", "REST APIs"],
     "experience_years": 4,
     "projects": ["Lightweight Microservice", "Blogging Platform API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 52,
@@ -475,7 +475,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 53,
@@ -493,7 +493,7 @@ export const employees: Employee[] = [
     "skills": ["Elixir", "Phoenix", "Ecto", "LiveView"],
     "experience_years": 6,
     "projects": ["Fault-Tolerant Web Application", "Real-time Collaboration Tool"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 55,
@@ -502,7 +502,7 @@ export const employees: Employee[] = [
     "skills": ["QA", "Selenium", "Cypress", "Jira", "Automated Testing"],
     "experience_years": 5,
     "projects": ["E-commerce Test Automation Suite", "Regression Testing for SaaS"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 56,
@@ -511,7 +511,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 57,
@@ -520,7 +520,7 @@ export const employees: Employee[] = [
     "skills": ["Svelte", "SvelteKit", "JavaScript", "Vite"],
     "experience_years": 2,
     "projects": ["Fast Static Blog", "Component Library"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 58,
@@ -529,7 +529,7 @@ export const employees: Employee[] = [
     "skills": ["Linux", "Bash Scripting", "Nginx", "System Administration"],
     "experience_years": 10,
     "projects": ["Server Fleet Management", "Web Server Performance Tuning"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 59,
@@ -547,7 +547,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 61,
@@ -565,7 +565,7 @@ export const employees: Employee[] = [
     "skills": ["Perl", "Mojolicious", "DBI", "Legacy Code Maintenance"],
     "experience_years": 15,
     "projects": ["Data Migration Scripting", "System Administration Automation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 63,
@@ -574,7 +574,7 @@ export const employees: Employee[] = [
     "skills": ["React", "Next.js", "Vercel", "GraphQL", "Server-Side Rendering"],
     "experience_years": 4,
     "projects": ["High-Performance Marketing Website", "Jamstack Blog"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 64,
@@ -583,7 +583,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 65,
@@ -592,7 +592,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "scikit-learn", "XGBoost", "Feature Engineering"],
     "experience_years": 5,
     "projects": ["Credit Scoring Model", "Customer Lifetime Value Prediction"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 66,
@@ -601,7 +601,7 @@ export const employees: Employee[] = [
     "skills": ["Node.js", "TypeScript", "Serverless Framework", "AWS Lambda", "DynamoDB"],
     "experience_years": 6,
     "projects": ["Serverless API Backend", "Event-Driven Architecture"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 67,
@@ -619,7 +619,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 69,
@@ -628,7 +628,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "NgRx", "PrimeNG", "Jasmine", "Karma"],
     "experience_years": 6,
     "projects": ["Financial Services Portal", "Internal Admin Dashboard"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 70,
@@ -646,7 +646,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Spring Boot", "WebFlux", "Reactive Programming"],
     "experience_years": 5,
     "projects": ["Reactive Microservice", "Live Data Streaming API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 72,
@@ -655,7 +655,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 73,
@@ -664,7 +664,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "React", "AWS", "Docker", "scikit-learn", "Pandas"],
     "experience_years": 5,
     "projects": ["E-commerce Platform", "Healthcare Dashboard"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 74,
@@ -673,7 +673,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Machine Learning", "scikit-learn", "Pandas", "AWS"],
     "experience_years": 4,
     "projects": ["Patient Risk Prediction System", "Fraud Detection Service"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 75,
@@ -682,7 +682,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 76,
@@ -691,7 +691,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Spring Boot", "PostgreSQL", "Kubernetes", "GCP"],
     "experience_years": 7,
     "projects": ["Banking API Service", "Microservices Architecture Migration"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 77,
@@ -700,7 +700,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "TensorFlow", "PyTorch", "Computer Vision", "Keras"],
     "experience_years": 6,
     "projects": ["Image Recognition System", "Autonomous Vehicle Perception Module"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 78,
@@ -709,7 +709,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 79,
@@ -718,7 +718,7 @@ export const employees: Employee[] = [
     "skills": ["Swift", "iOS Development", "UIKit", "CoreData", "XCode"],
     "experience_years": 4,
     "projects": ["Mobile E-commerce App", "Fitness Tracking iOS App"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 80,
@@ -727,7 +727,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Android Development", "Jetpack Compose", "Firebase"],
     "experience_years": 5,
     "projects": ["Food Delivery Android App", "Social Networking Mobile App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 81,
@@ -745,7 +745,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 83,
@@ -754,7 +754,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Django", "Celery", "Redis", "PostgreSQL"],
     "experience_years": 5,
     "projects": ["Task Management System", "Content Management System (CMS)"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 84,
@@ -772,7 +772,7 @@ export const employees: Employee[] = [
     "skills": ["PHP", "Laravel", "MySQL", "Vue.js", "Nginx"],
     "experience_years": 7,
     "projects": ["Booking System", "Custom E-commerce Site"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 86,
@@ -781,7 +781,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 87,
@@ -799,7 +799,7 @@ export const employees: Employee[] = [
     "skills": ["Terraform", "Ansible", "Jenkins", "AWS", "Kubernetes"],
     "experience_years": 8,
     "projects": ["Infrastructure as Code (IaC) Setup", "CI/CD Pipeline Automation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 89,
@@ -808,7 +808,7 @@ export const employees: Employee[] = [
     "skills": ["React Native", "Firebase", "JavaScript", "Redux"],
     "experience_years": 3,
     "projects": ["Cross-Platform Social App", "Mobile Inventory Manager"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 90,
@@ -817,7 +817,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 91,
@@ -826,7 +826,7 @@ export const employees: Employee[] = [
     "skills": ["Flutter", "Dart", "Firebase", "BLoC Pattern"],
     "experience_years": 2,
     "projects": ["Recipe App (iOS/Android)", "Local Events Finder App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 92,
@@ -835,7 +835,7 @@ export const employees: Employee[] = [
     "skills": ["SQL", "Tableau", "Power BI", "Data Warehousing", "ETL"],
     "experience_years": 10,
     "projects": ["Business Intelligence Dashboard Suite", "Sales Data Analysis Report"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 93,
@@ -853,7 +853,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 95,
@@ -862,7 +862,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "TypeScript", "RxJS", "NgRx", "SCSS"],
     "experience_years": 5,
     "projects": ["Enterprise Single Page Application (SPA)", "Data Visualization Dashboard"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 96,
@@ -880,7 +880,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "D3.js", "Three.js", "WebGL"],
     "experience_years": 5,
     "projects": ["Interactive Data Visualization Gallery", "3D Product Configurator"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 98,
@@ -889,7 +889,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 99,
@@ -898,7 +898,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Figma", "Sketch", "Adobe XD", "User Research"],
     "experience_years": 6,
     "projects": ["Mobile App Redesign", "Website Usability Testing"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 100,
@@ -907,7 +907,7 @@ export const employees: Employee[] = [
     "skills": ["Rust", "Actix", "Tokio", "Diesel"],
     "experience_years": 3,
     "projects": ["Secure Web Service", "Systems Programming Utility"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 101,
@@ -925,7 +925,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 103,
@@ -934,7 +934,7 @@ export const employees: Employee[] = [
     "skills": ["GCP", "BigQuery", "Dataflow", "Cloud Functions"],
     "experience_years": 5,
     "projects": ["Serverless Data Processing Workflow", "Big Data Analytics Platform"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 104,
@@ -952,7 +952,7 @@ export const employees: Employee[] = [
     "skills": ["QA", "Selenium", "Cypress", "Jira", "Automated Testing"],
     "experience_years": 5,
     "projects": ["E-commerce Test Automation Suite", "Regression Testing for SaaS"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 106,
@@ -961,7 +961,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 107,
@@ -979,7 +979,7 @@ export const employees: Employee[] = [
     "skills": ["Linux", "Bash Scripting", "Nginx", "System Administration"],
     "experience_years": 10,
     "projects": ["Server Fleet Management", "Web Server Performance Tuning"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 109,
@@ -997,7 +997,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 111,
@@ -1006,7 +1006,7 @@ export const employees: Employee[] = [
     "skills": ["Solidity", "Ethereum", "Web3.js", "Truffle", "Smart Contracts"],
     "experience_years": 3,
     "projects": ["Decentralized Application (dApp)", "NFT Marketplace"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 112,
@@ -1024,7 +1024,7 @@ export const employees: Employee[] = [
     "skills": ["React", "Next.js", "Vercel", "GraphQL", "Server-Side Rendering"],
     "experience_years": 4,
     "projects": ["High-Performance Marketing Website", "Jamstack Blog"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 114,
@@ -1033,7 +1033,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 115,
@@ -1051,7 +1051,7 @@ export const employees: Employee[] = [
     "skills": ["Node.js", "TypeScript", "Serverless Framework", "AWS Lambda", "DynamoDB"],
     "experience_years": 6,
     "projects": ["Serverless API Backend", "Event-Driven Architecture"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 117,
@@ -1060,7 +1060,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Prototyping", "Wireframing", "InVision", "Zeplin"],
     "experience_years": 4,
     "projects": ["SaaS Platform UI Overhaul", "Design System Creation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 118,
@@ -1069,7 +1069,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 119,
@@ -1078,7 +1078,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "NgRx", "PrimeNG", "Jasmine", "Karma"],
     "experience_years": 6,
     "projects": ["Financial Services Portal", "Internal Admin Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 120,
@@ -1096,7 +1096,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Spring Boot", "WebFlux", "Reactive Programming"],
     "experience_years": 5,
     "projects": ["Reactive Microservice", "Live Data Streaming API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 122,
@@ -1105,7 +1105,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 123,
@@ -1123,7 +1123,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Machine Learning", "scikit-learn", "Pandas", "AWS"],
     "experience_years": 4,
     "projects": ["Patient Risk Prediction System", "Fraud Detection Service"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 125,
@@ -1132,7 +1132,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 126,
@@ -1150,7 +1150,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "TensorFlow", "PyTorch", "Computer Vision", "Keras"],
     "experience_years": 6,
     "projects": ["Image Recognition System", "Autonomous Vehicle Perception Module"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 128,
@@ -1159,7 +1159,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 129,
@@ -1177,7 +1177,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Android Development", "Jetpack Compose", "Firebase"],
     "experience_years": 5,
     "projects": ["Food Delivery Android App", "Social Networking Mobile App"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 131,
@@ -1186,7 +1186,7 @@ export const employees: Employee[] = [
     "skills": ["HTML", "CSS", "JavaScript", "Vue.js", "Firebase", "TailwindCSS"],
     "experience_years": 2,
     "projects": ["Portfolio Website", "Interactive Landing Page"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 132,
@@ -1195,7 +1195,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 133,
@@ -1204,7 +1204,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Django", "Celery", "Redis", "PostgreSQL"],
     "experience_years": 5,
     "projects": ["Task Management System", "Content Management System (CMS)"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 134,
@@ -1213,7 +1213,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby", "Ruby on Rails", "Heroku", "Sidekiq"],
     "experience_years": 9,
     "projects": ["Subscription Billing Platform", "E-learning Portal"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 135,
@@ -1231,7 +1231,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 137,
@@ -1240,7 +1240,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Data Engineering", "Apache Spark", "Airflow", "Kafka"],
     "experience_years": 6,
     "projects": ["Real-time Data Pipeline", "Data Warehouse Modernization"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 138,
@@ -1258,7 +1258,7 @@ export const employees: Employee[] = [
     "skills": ["React Native", "Firebase", "JavaScript", "Redux"],
     "experience_years": 3,
     "projects": ["Cross-Platform Social App", "Mobile Inventory Manager"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 140,
@@ -1267,7 +1267,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 141,
@@ -1285,7 +1285,7 @@ export const employees: Employee[] = [
     "skills": ["SQL", "Tableau", "Power BI", "Data Warehousing", "ETL"],
     "experience_years": 10,
     "projects": ["Business Intelligence Dashboard Suite", "Sales Data Analysis Report"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 143,
@@ -1303,7 +1303,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 145,
@@ -1312,7 +1312,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "TypeScript", "RxJS", "NgRx", "SCSS"],
     "experience_years": 5,
     "projects": ["Enterprise Single Page Application (SPA)", "Data Visualization Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 146,
@@ -1330,7 +1330,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "D3.js", "Three.js", "WebGL"],
     "experience_years": 5,
     "projects": ["Interactive Data Visualization Gallery", "3D Product Configurator"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 148,
@@ -1339,7 +1339,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 149,
@@ -1357,7 +1357,7 @@ export const employees: Employee[] = [
     "skills": ["Rust", "Actix", "Tokio", "Diesel"],
     "experience_years": 3,
     "projects": ["Secure Web Service", "Systems Programming Utility"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 151,
@@ -1366,7 +1366,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Flask", "SQLAlchemy", "Jinja2", "REST APIs"],
     "experience_years": 4,
     "projects": ["Lightweight Microservice", "Blogging Platform API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 152,
@@ -1375,7 +1375,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 153,
@@ -1384,7 +1384,7 @@ export const employees: Employee[] = [
     "skills": ["GCP", "BigQuery", "Dataflow", "Cloud Functions"],
     "experience_years": 5,
     "projects": ["Serverless Data Processing Workflow", "Big Data Analytics Platform"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 154,
@@ -1393,7 +1393,7 @@ export const employees: Employee[] = [
     "skills": ["Elixir", "Phoenix", "Ecto", "LiveView"],
     "experience_years": 6,
     "projects": ["Fault-Tolerant Web Application", "Real-time Collaboration Tool"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 155,
@@ -1411,7 +1411,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 157,
@@ -1420,7 +1420,7 @@ export const employees: Employee[] = [
     "skills": ["Svelte", "SvelteKit", "JavaScript", "Vite"],
     "experience_years": 2,
     "projects": ["Fast Static Blog", "Component Library"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 158,
@@ -1438,7 +1438,7 @@ export const employees: Employee[] = [
     "skills": ["WordPress", "PHP", "JavaScript", "Elementor", "WooCommerce"],
     "experience_years": 7,
     "projects": ["Custom Theme for a Corporate Client", "Multi-vendor Marketplace"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 160,
@@ -1447,7 +1447,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 161,
@@ -1465,7 +1465,7 @@ export const employees: Employee[] = [
     "skills": ["Perl", "Mojolicious", "DBI", "Legacy Code Maintenance"],
     "experience_years": 15,
     "projects": ["Data Migration Scripting", "System Administration Automation"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 163,
@@ -1483,7 +1483,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 165,
@@ -1492,7 +1492,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "scikit-learn", "XGBoost", "Feature Engineering"],
     "experience_years": 5,
     "projects": ["Credit Scoring Model", "Customer Lifetime Value Prediction"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 166,
@@ -1510,7 +1510,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Prototyping", "Wireframing", "InVision", "Zeplin"],
     "experience_years": 4,
     "projects": ["SaaS Platform UI Overhaul", "Design System Creation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 168,
@@ -1519,7 +1519,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 169,
@@ -1537,7 +1537,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "FastAPI", "Pydantic", "Docker", "AsyncIO"],
     "experience_years": 3,
     "projects": ["High-Speed Data Validation Service", "Machine Learning Model Serving API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 171,
@@ -1546,7 +1546,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Spring Boot", "WebFlux", "Reactive Programming"],
     "experience_years": 5,
     "projects": ["Reactive Microservice", "Live Data Streaming API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 172,
@@ -1555,7 +1555,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 173,
@@ -1564,7 +1564,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "React", "AWS", "Docker", "scikit-learn", "Pandas"],
     "experience_years": 5,
     "projects": ["E-commerce Platform", "Healthcare Dashboard"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 174,
@@ -1573,7 +1573,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Machine Learning", "scikit-learn", "Pandas", "AWS"],
     "experience_years": 4,
     "projects": ["Patient Risk Prediction System", "Fraud Detection Service"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 175,
@@ -1582,7 +1582,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 176,
@@ -1591,7 +1591,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Spring Boot", "PostgreSQL", "Kubernetes", "GCP"],
     "experience_years": 7,
     "projects": ["Banking API Service", "Microservices Architecture Migration"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 177,
@@ -1600,7 +1600,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "TensorFlow", "PyTorch", "Computer Vision", "Keras"],
     "experience_years": 6,
     "projects": ["Image Recognition System", "Autonomous Vehicle Perception Module"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 178,
@@ -1609,7 +1609,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 179,
@@ -1618,7 +1618,7 @@ export const employees: Employee[] = [
     "skills": ["Swift", "iOS Development", "UIKit", "CoreData", "XCode"],
     "experience_years": 4,
     "projects": ["Mobile E-commerce App", "Fitness Tracking iOS App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 180,
@@ -1636,7 +1636,7 @@ export const employees: Employee[] = [
     "skills": ["HTML", "CSS", "JavaScript", "Vue.js", "Firebase", "TailwindCSS"],
     "experience_years": 2,
     "projects": ["Portfolio Website", "Interactive Landing Page"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 182,
@@ -1645,7 +1645,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 183,
@@ -1663,7 +1663,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby", "Ruby on Rails", "Heroku", "Sidekiq"],
     "experience_years": 9,
     "projects": ["Subscription Billing Platform", "E-learning Portal"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 185,
@@ -1672,7 +1672,7 @@ export const employees: Employee[] = [
     "skills": ["PHP", "Laravel", "MySQL", "Vue.js", "Nginx"],
     "experience_years": 7,
     "projects": ["Booking System", "Custom E-commerce Site"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 186,
@@ -1681,7 +1681,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 187,
@@ -1690,7 +1690,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Data Engineering", "Apache Spark", "Airflow", "Kafka"],
     "experience_years": 6,
     "projects": ["Real-time Data Pipeline", "Data Warehouse Modernization"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 188,
@@ -1699,7 +1699,7 @@ export const employees: Employee[] = [
     "skills": ["Terraform", "Ansible", "Jenkins", "AWS", "Kubernetes"],
     "experience_years": 8,
     "projects": ["Infrastructure as Code (IaC) Setup", "CI/CD Pipeline Automation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 189,
@@ -1717,7 +1717,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 191,
@@ -1735,7 +1735,7 @@ export const employees: Employee[] = [
     "skills": ["SQL", "Tableau", "Power BI", "Data Warehousing", "ETL"],
     "experience_years": 10,
     "projects": ["Business Intelligence Dashboard Suite", "Sales Data Analysis Report"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 193,
@@ -1744,7 +1744,7 @@ export const employees: Employee[] = [
     "skills": ["Cybersecurity", "Penetration Testing", "Metasploit", "Wireshark"],
     "experience_years": 6,
     "projects": ["Vulnerability Assessment for a Financial App", "Network Security Audit"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 194,
@@ -1753,7 +1753,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 195,
@@ -1762,7 +1762,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "TypeScript", "RxJS", "NgRx", "SCSS"],
     "experience_years": 5,
     "projects": ["Enterprise Single Page Application (SPA)", "Data Visualization Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 196,
@@ -1771,7 +1771,7 @@ export const employees: Employee[] = [
     "skills": ["Machine Learning", "NLP", "spaCy", "NLTK", "Hugging Face"],
     "experience_years": 7,
     "projects": ["Sentiment Analysis Engine", "Chatbot for Customer Service"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 197,
@@ -1789,7 +1789,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 199,
@@ -1798,7 +1798,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Figma", "Sketch", "Adobe XD", "User Research"],
     "experience_years": 6,
     "projects": ["Mobile App Redesign", "Website Usability Testing"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 200,
@@ -1816,7 +1816,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Flask", "SQLAlchemy", "Jinja2", "REST APIs"],
     "experience_years": 4,
     "projects": ["Lightweight Microservice", "Blogging Platform API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 202,
@@ -1825,7 +1825,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 203,
@@ -1834,7 +1834,7 @@ export const employees: Employee[] = [
     "skills": ["GCP", "BigQuery", "Dataflow", "Cloud Functions"],
     "experience_years": 5,
     "projects": ["Serverless Data Processing Workflow", "Big Data Analytics Platform"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 204,
@@ -1843,7 +1843,7 @@ export const employees: Employee[] = [
     "skills": ["Elixir", "Phoenix", "Ecto", "LiveView"],
     "experience_years": 6,
     "projects": ["Fault-Tolerant Web Application", "Real-time Collaboration Tool"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 205,
@@ -1861,7 +1861,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 207,
@@ -1870,7 +1870,7 @@ export const employees: Employee[] = [
     "skills": ["Svelte", "SvelteKit", "JavaScript", "Vite"],
     "experience_years": 2,
     "projects": ["Fast Static Blog", "Component Library"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 208,
@@ -1888,7 +1888,7 @@ export const employees: Employee[] = [
     "skills": ["WordPress", "PHP", "JavaScript", "Elementor", "WooCommerce"],
     "experience_years": 7,
     "projects": ["Custom Theme for a Corporate Client", "Multi-vendor Marketplace"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 210,
@@ -1897,7 +1897,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 211,
@@ -1915,7 +1915,7 @@ export const employees: Employee[] = [
     "skills": ["Perl", "Mojolicious", "DBI", "Legacy Code Maintenance"],
     "experience_years": 15,
     "projects": ["Data Migration Scripting", "System Administration Automation"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 213,
@@ -1933,7 +1933,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 215,
@@ -1942,7 +1942,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "scikit-learn", "XGBoost", "Feature Engineering"],
     "experience_years": 5,
     "projects": ["Credit Scoring Model", "Customer Lifetime Value Prediction"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 216,
@@ -1960,7 +1960,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Prototyping", "Wireframing", "InVision", "Zeplin"],
     "experience_years": 4,
     "projects": ["SaaS Platform UI Overhaul", "Design System Creation"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 218,
@@ -1969,7 +1969,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 219,
@@ -1987,7 +1987,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "FastAPI", "Pydantic", "Docker", "AsyncIO"],
     "experience_years": 3,
     "projects": ["High-Speed Data Validation Service", "Machine Learning Model Serving API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 221,
@@ -1996,7 +1996,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Spring Boot", "WebFlux", "Reactive Programming"],
     "experience_years": 5,
     "projects": ["Reactive Microservice", "Live Data Streaming API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 222,
@@ -2005,7 +2005,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 223,
@@ -2014,7 +2014,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "React", "AWS", "Docker", "scikit-learn", "Pandas"],
     "experience_years": 5,
     "projects": ["E-commerce Platform", "Healthcare Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 224,
@@ -2032,7 +2032,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 226,
@@ -2041,7 +2041,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Spring Boot", "PostgreSQL", "Kubernetes", "GCP"],
     "experience_years": 7,
     "projects": ["Banking API Service", "Microservices Architecture Migration"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 227,
@@ -2059,7 +2059,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 229,
@@ -2068,7 +2068,7 @@ export const employees: Employee[] = [
     "skills": ["Swift", "iOS Development", "UIKit", "CoreData", "XCode"],
     "experience_years": 4,
     "projects": ["Mobile E-commerce App", "Fitness Tracking iOS App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 230,
@@ -2086,7 +2086,7 @@ export const employees: Employee[] = [
     "skills": ["HTML", "CSS", "JavaScript", "Vue.js", "Firebase", "TailwindCSS"],
     "experience_years": 2,
     "projects": ["Portfolio Website", "Interactive Landing Page"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 232,
@@ -2095,7 +2095,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 233,
@@ -2113,7 +2113,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby", "Ruby on Rails", "Heroku", "Sidekiq"],
     "experience_years": 9,
     "projects": ["Subscription Billing Platform", "E-learning Portal"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 235,
@@ -2122,7 +2122,7 @@ export const employees: Employee[] = [
     "skills": ["PHP", "Laravel", "MySQL", "Vue.js", "Nginx"],
     "experience_years": 7,
     "projects": ["Booking System", "Custom E-commerce Site"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 236,
@@ -2131,7 +2131,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 237,
@@ -2140,7 +2140,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Data Engineering", "Apache Spark", "Airflow", "Kafka"],
     "experience_years": 6,
     "projects": ["Real-time Data Pipeline", "Data Warehouse Modernization"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 238,
@@ -2158,7 +2158,7 @@ export const employees: Employee[] = [
     "skills": ["React Native", "Firebase", "JavaScript", "Redux"],
     "experience_years": 3,
     "projects": ["Cross-Platform Social App", "Mobile Inventory Manager"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 240,
@@ -2167,7 +2167,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 241,
@@ -2185,7 +2185,7 @@ export const employees: Employee[] = [
     "skills": ["SQL", "Tableau", "Power BI", "Data Warehousing", "ETL"],
     "experience_years": 10,
     "projects": ["Business Intelligence Dashboard Suite", "Sales Data Analysis Report"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 243,
@@ -2194,7 +2194,7 @@ export const employees: Employee[] = [
     "skills": ["Cybersecurity", "Penetration Testing", "Metasploit", "Wireshark"],
     "experience_years": 6,
     "projects": ["Vulnerability Assessment for a Financial App", "Network Security Audit"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 244,
@@ -2203,7 +2203,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 245,
@@ -2212,7 +2212,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "TypeScript", "RxJS", "NgRx", "SCSS"],
     "experience_years": 5,
     "projects": ["Enterprise Single Page Application (SPA)", "Data Visualization Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 246,
@@ -2221,7 +2221,7 @@ export const employees: Employee[] = [
     "skills": ["Machine Learning", "NLP", "spaCy", "NLTK", "Hugging Face"],
     "experience_years": 7,
     "projects": ["Sentiment Analysis Engine", "Chatbot for Customer Service"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 247,
@@ -2239,7 +2239,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 249,
@@ -2257,7 +2257,7 @@ export const employees: Employee[] = [
     "skills": ["Rust", "Actix", "Tokio", "Diesel"],
     "experience_years": 3,
     "projects": ["Secure Web Service", "Systems Programming Utility"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 251,
@@ -2266,7 +2266,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Flask", "SQLAlchemy", "Jinja2", "REST APIs"],
     "experience_years": 4,
     "projects": ["Lightweight Microservice", "Blogging Platform API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 252,
@@ -2275,7 +2275,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 253,
@@ -2284,7 +2284,7 @@ export const employees: Employee[] = [
     "skills": ["GCP", "BigQuery", "Dataflow", "Cloud Functions"],
     "experience_years": 5,
     "projects": ["Serverless Data Processing Workflow", "Big Data Analytics Platform"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 254,
@@ -2293,7 +2293,7 @@ export const employees: Employee[] = [
     "skills": ["Elixir", "Phoenix", "Ecto", "LiveView"],
     "experience_years": 6,
     "projects": ["Fault-Tolerant Web Application", "Real-time Collaboration Tool"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 255,
@@ -2311,7 +2311,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 257,
@@ -2320,7 +2320,7 @@ export const employees: Employee[] = [
     "skills": ["Svelte", "SvelteKit", "JavaScript", "Vite"],
     "experience_years": 2,
     "projects": ["Fast Static Blog", "Component Library"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 258,
@@ -2338,7 +2338,7 @@ export const employees: Employee[] = [
     "skills": ["WordPress", "PHP", "JavaScript", "Elementor", "WooCommerce"],
     "experience_years": 7,
     "projects": ["Custom Theme for a Corporate Client", "Multi-vendor Marketplace"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 260,
@@ -2347,7 +2347,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 261,
@@ -2365,7 +2365,7 @@ export const employees: Employee[] = [
     "skills": ["Perl", "Mojolicious", "DBI", "Legacy Code Maintenance"],
     "experience_years": 15,
     "projects": ["Data Migration Scripting", "System Administration Automation"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 263,
@@ -2374,7 +2374,7 @@ export const employees: Employee[] = [
     "skills": ["React", "Next.js", "Vercel", "GraphQL", "Server-Side Rendering"],
     "experience_years": 4,
     "projects": ["High-Performance Marketing Website", "Jamstack Blog"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 264,
@@ -2383,7 +2383,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 265,
@@ -2392,7 +2392,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "scikit-learn", "XGBoost", "Feature Engineering"],
     "experience_years": 5,
     "projects": ["Credit Scoring Model", "Customer Lifetime Value Prediction"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 266,
@@ -2410,7 +2410,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Prototyping", "Wireframing", "InVision", "Zeplin"],
     "experience_years": 4,
     "projects": ["SaaS Platform UI Overhaul", "Design System Creation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 268,
@@ -2419,7 +2419,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 269,
@@ -2437,7 +2437,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "FastAPI", "Pydantic", "Docker", "AsyncIO"],
     "experience_years": 3,
     "projects": ["High-Speed Data Validation Service", "Machine Learning Model Serving API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 271,
@@ -2446,7 +2446,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Spring Boot", "WebFlux", "Reactive Programming"],
     "experience_years": 5,
     "projects": ["Reactive Microservice", "Live Data Streaming API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 272,
@@ -2455,7 +2455,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 273,
@@ -2464,7 +2464,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "React", "AWS", "Docker", "scikit-learn", "Pandas"],
     "experience_years": 5,
     "projects": ["E-commerce Platform", "Healthcare Dashboard"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 274,
@@ -2473,7 +2473,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Machine Learning", "scikit-learn", "Pandas", "AWS"],
     "experience_years": 4,
     "projects": ["Patient Risk Prediction System", "Fraud Detection Service"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 275,
@@ -2482,7 +2482,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 276,
@@ -2491,7 +2491,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Spring Boot", "PostgreSQL", "Kubernetes", "GCP"],
     "experience_years": 7,
     "projects": ["Banking API Service", "Microservices Architecture Migration"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 277,
@@ -2500,7 +2500,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "TensorFlow", "PyTorch", "Computer Vision", "Keras"],
     "experience_years": 6,
     "projects": ["Image Recognition System", "Autonomous Vehicle Perception Module"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 278,
@@ -2509,7 +2509,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 279,
@@ -2518,7 +2518,7 @@ export const employees: Employee[] = [
     "skills": ["Swift", "iOS Development", "UIKit", "CoreData", "XCode"],
     "experience_years": 4,
     "projects": ["Mobile E-commerce App", "Fitness Tracking iOS App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 280,
@@ -2527,7 +2527,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Android Development", "Jetpack Compose", "Firebase"],
     "experience_years": 5,
     "projects": ["Food Delivery Android App", "Social Networking Mobile App"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 281,
@@ -2545,7 +2545,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 283,
@@ -2563,7 +2563,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby", "Ruby on Rails", "Heroku", "Sidekiq"],
     "experience_years": 9,
     "projects": ["Subscription Billing Platform", "E-learning Portal"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 285,
@@ -2572,7 +2572,7 @@ export const employees: Employee[] = [
     "skills": ["PHP", "Laravel", "MySQL", "Vue.js", "Nginx"],
     "experience_years": 7,
     "projects": ["Booking System", "Custom E-commerce Site"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 286,
@@ -2581,7 +2581,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 287,
@@ -2590,7 +2590,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Data Engineering", "Apache Spark", "Airflow", "Kafka"],
     "experience_years": 6,
     "projects": ["Real-time Data Pipeline", "Data Warehouse Modernization"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 288,
@@ -2599,7 +2599,7 @@ export const employees: Employee[] = [
     "skills": ["Terraform", "Ansible", "Jenkins", "AWS", "Kubernetes"],
     "experience_years": 8,
     "projects": ["Infrastructure as Code (IaC) Setup", "CI/CD Pipeline Automation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 289,
@@ -2617,7 +2617,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 291,
@@ -2626,7 +2626,7 @@ export const employees: Employee[] = [
     "skills": ["Flutter", "Dart", "Firebase", "BLoC Pattern"],
     "experience_years": 2,
     "projects": ["Recipe App (iOS/Android)", "Local Events Finder App"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 292,
@@ -2644,7 +2644,7 @@ export const employees: Employee[] = [
     "skills": ["Cybersecurity", "Penetration Testing", "Metasploit", "Wireshark"],
     "experience_years": 6,
     "projects": ["Vulnerability Assessment for a Financial App", "Network Security Audit"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 294,
@@ -2653,7 +2653,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 295,
@@ -2662,7 +2662,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "TypeScript", "RxJS", "NgRx", "SCSS"],
     "experience_years": 5,
     "projects": ["Enterprise Single Page Application (SPA)", "Data Visualization Dashboard"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 296,
@@ -2671,7 +2671,7 @@ export const employees: Employee[] = [
     "skills": ["Machine Learning", "NLP", "spaCy", "NLTK", "Hugging Face"],
     "experience_years": 7,
     "projects": ["Sentiment Analysis Engine", "Chatbot for Customer Service"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 297,
@@ -2689,7 +2689,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 299,
@@ -2698,7 +2698,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Figma", "Sketch", "Adobe XD", "User Research"],
     "experience_years": 6,
     "projects": ["Mobile App Redesign", "Website Usability Testing"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 300,
@@ -2716,7 +2716,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Flask", "SQLAlchemy", "Jinja2", "REST APIs"],
     "experience_years": 4,
     "projects": ["Lightweight Microservice", "Blogging Platform API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 302,
@@ -2725,7 +2725,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 303,
@@ -2743,7 +2743,7 @@ export const employees: Employee[] = [
     "skills": ["Elixir", "Phoenix", "Ecto", "LiveView"],
     "experience_years": 6,
     "projects": ["Fault-Tolerant Web Application", "Real-time Collaboration Tool"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 305,
@@ -2752,7 +2752,7 @@ export const employees: Employee[] = [
     "skills": ["QA", "Selenium", "Cypress", "Jira", "Automated Testing"],
     "experience_years": 5,
     "projects": ["E-commerce Test Automation Suite", "Regression Testing for SaaS"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 306,
@@ -2761,7 +2761,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 307,
@@ -2770,7 +2770,7 @@ export const employees: Employee[] = [
     "skills": ["Svelte", "SvelteKit", "JavaScript", "Vite"],
     "experience_years": 2,
     "projects": ["Fast Static Blog", "Component Library"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 308,
@@ -2779,7 +2779,7 @@ export const employees: Employee[] = [
     "skills": ["Linux", "Bash Scripting", "Nginx", "System Administration"],
     "experience_years": 10,
     "projects": ["Server Fleet Management", "Web Server Performance Tuning"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 309,
@@ -2797,7 +2797,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 311,
@@ -2815,7 +2815,7 @@ export const employees: Employee[] = [
     "skills": ["Perl", "Mojolicious", "DBI", "Legacy Code Maintenance"],
     "experience_years": 15,
     "projects": ["Data Migration Scripting", "System Administration Automation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 313,
@@ -2824,7 +2824,7 @@ export const employees: Employee[] = [
     "skills": ["React", "Next.js", "Vercel", "GraphQL", "Server-Side Rendering"],
     "experience_years": 4,
     "projects": ["High-Performance Marketing Website", "Jamstack Blog"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 314,
@@ -2833,7 +2833,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 315,
@@ -2842,7 +2842,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "scikit-learn", "XGBoost", "Feature Engineering"],
     "experience_years": 5,
     "projects": ["Credit Scoring Model", "Customer Lifetime Value Prediction"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 316,
@@ -2851,7 +2851,7 @@ export const employees: Employee[] = [
     "skills": ["Node.js", "TypeScript", "Serverless Framework", "AWS Lambda", "DynamoDB"],
     "experience_years": 6,
     "projects": ["Serverless API Backend", "Event-Driven Architecture"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 317,
@@ -2869,7 +2869,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 319,
@@ -2878,7 +2878,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "NgRx", "PrimeNG", "Jasmine", "Karma"],
     "experience_years": 6,
     "projects": ["Financial Services Portal", "Internal Admin Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 320,
@@ -2896,7 +2896,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Spring Boot", "WebFlux", "Reactive Programming"],
     "experience_years": 5,
     "projects": ["Reactive Microservice", "Live Data Streaming API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 322,
@@ -2905,7 +2905,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 323,
@@ -2923,7 +2923,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Machine Learning", "scikit-learn", "Pandas", "AWS"],
     "experience_years": 4,
     "projects": ["Patient Risk Prediction System", "Fraud Detection Service"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 325,
@@ -2932,7 +2932,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 326,
@@ -2950,7 +2950,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "TensorFlow", "PyTorch", "Computer Vision", "Keras"],
     "experience_years": 6,
     "projects": ["Image Recognition System", "Autonomous Vehicle Perception Module"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 328,
@@ -2959,7 +2959,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 329,
@@ -2977,7 +2977,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Android Development", "Jetpack Compose", "Firebase"],
     "experience_years": 5,
     "projects": ["Food Delivery Android App", "Social Networking Mobile App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 331,
@@ -2995,7 +2995,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 333,
@@ -3004,7 +3004,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Django", "Celery", "Redis", "PostgreSQL"],
     "experience_years": 5,
     "projects": ["Task Management System", "Content Management System (CMS)"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 334,
@@ -3022,7 +3022,7 @@ export const employees: Employee[] = [
     "skills": ["PHP", "Laravel", "MySQL", "Vue.js", "Nginx"],
     "experience_years": 7,
     "projects": ["Booking System", "Custom E-commerce Site"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 336,
@@ -3031,7 +3031,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 337,
@@ -3049,7 +3049,7 @@ export const employees: Employee[] = [
     "skills": ["Terraform", "Ansible", "Jenkins", "AWS", "Kubernetes"],
     "experience_years": 8,
     "projects": ["Infrastructure as Code (IaC) Setup", "CI/CD Pipeline Automation"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 339,
@@ -3058,7 +3058,7 @@ export const employees: Employee[] = [
     "skills": ["React Native", "Firebase", "JavaScript", "Redux"],
     "experience_years": 3,
     "projects": ["Cross-Platform Social App", "Mobile Inventory Manager"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 340,
@@ -3067,7 +3067,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 341,
@@ -3076,7 +3076,7 @@ export const employees: Employee[] = [
     "skills": ["Flutter", "Dart", "Firebase", "BLoC Pattern"],
     "experience_years": 2,
     "projects": ["Recipe App (iOS/Android)", "Local Events Finder App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 342,
@@ -3094,7 +3094,7 @@ export const employees: Employee[] = [
     "skills": ["Cybersecurity", "Penetration Testing", "Metasploit", "Wireshark"],
     "experience_years": 6,
     "projects": ["Vulnerability Assessment for a Financial App", "Network Security Audit"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 344,
@@ -3103,7 +3103,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 345,
@@ -3121,7 +3121,7 @@ export const employees: Employee[] = [
     "skills": ["Machine Learning", "NLP", "spaCy", "NLTK", "Hugging Face"],
     "experience_years": 7,
     "projects": ["Sentiment Analysis Engine", "Chatbot for Customer Service"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 347,
@@ -3130,7 +3130,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "D3.js", "Three.js", "WebGL"],
     "experience_years": 5,
     "projects": ["Interactive Data Visualization Gallery", "3D Product Configurator"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 348,
@@ -3139,7 +3139,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 349,
@@ -3148,7 +3148,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Figma", "Sketch", "Adobe XD", "User Research"],
     "experience_years": 6,
     "projects": ["Mobile App Redesign", "Website Usability Testing"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 350,
@@ -3157,7 +3157,7 @@ export const employees: Employee[] = [
     "skills": ["Rust", "Actix", "Tokio", "Diesel"],
     "experience_years": 3,
     "projects": ["Secure Web Service", "Systems Programming Utility"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 351,
@@ -3175,7 +3175,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 353,
@@ -3193,7 +3193,7 @@ export const employees: Employee[] = [
     "skills": ["Elixir", "Phoenix", "Ecto", "LiveView"],
     "experience_years": 6,
     "projects": ["Fault-Tolerant Web Application", "Real-time Collaboration Tool"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 355,
@@ -3202,7 +3202,7 @@ export const employees: Employee[] = [
     "skills": ["QA", "Selenium", "Cypress", "Jira", "Automated Testing"],
     "experience_years": 5,
     "projects": ["E-commerce Test Automation Suite", "Regression Testing for SaaS"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 356,
@@ -3211,7 +3211,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 357,
@@ -3220,7 +3220,7 @@ export const employees: Employee[] = [
     "skills": ["Svelte", "SvelteKit", "JavaScript", "Vite"],
     "experience_years": 2,
     "projects": ["Fast Static Blog", "Component Library"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 358,
@@ -3229,7 +3229,7 @@ export const employees: Employee[] = [
     "skills": ["Linux", "Bash Scripting", "Nginx", "System Administration"],
     "experience_years": 10,
     "projects": ["Server Fleet Management", "Web Server Performance Tuning"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 359,
@@ -3247,7 +3247,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 361,
@@ -3256,7 +3256,7 @@ export const employees: Employee[] = [
     "skills": ["Solidity", "Ethereum", "Web3.js", "Truffle", "Smart Contracts"],
     "experience_years": 3,
     "projects": ["Decentralized Application (dApp)", "NFT Marketplace"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 362,
@@ -3274,7 +3274,7 @@ export const employees: Employee[] = [
     "skills": ["React", "Next.js", "Vercel", "GraphQL", "Server-Side Rendering"],
     "experience_years": 4,
     "projects": ["High-Performance Marketing Website", "Jamstack Blog"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 364,
@@ -3283,7 +3283,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 365,
@@ -3301,7 +3301,7 @@ export const employees: Employee[] = [
     "skills": ["Node.js", "TypeScript", "Serverless Framework", "AWS Lambda", "DynamoDB"],
     "experience_years": 6,
     "projects": ["Serverless API Backend", "Event-Driven Architecture"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 367,
@@ -3310,7 +3310,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Prototyping", "Wireframing", "InVision", "Zeplin"],
     "experience_years": 4,
     "projects": ["SaaS Platform UI Overhaul", "Design System Creation"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 368,
@@ -3319,7 +3319,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 369,
@@ -3328,7 +3328,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "NgRx", "PrimeNG", "Jasmine", "Karma"],
     "experience_years": 6,
     "projects": ["Financial Services Portal", "Internal Admin Dashboard"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 370,
@@ -3337,7 +3337,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "FastAPI", "Pydantic", "Docker", "AsyncIO"],
     "experience_years": 3,
     "projects": ["High-Speed Data Validation Service", "Machine Learning Model Serving API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 371,
@@ -3355,7 +3355,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 373,
@@ -3364,7 +3364,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "React", "AWS", "Docker", "scikit-learn", "Pandas"],
     "experience_years": 5,
     "projects": ["E-commerce Platform", "Healthcare Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 374,
@@ -3382,7 +3382,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 376,
@@ -3391,7 +3391,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Spring Boot", "PostgreSQL", "Kubernetes", "GCP"],
     "experience_years": 7,
     "projects": ["Banking API Service", "Microservices Architecture Migration"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 377,
@@ -3409,7 +3409,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 379,
@@ -3418,7 +3418,7 @@ export const employees: Employee[] = [
     "skills": ["Swift", "iOS Development", "UIKit", "CoreData", "XCode"],
     "experience_years": 4,
     "projects": ["Mobile E-commerce App", "Fitness Tracking iOS App"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 380,
@@ -3436,7 +3436,7 @@ export const employees: Employee[] = [
     "skills": ["HTML", "CSS", "JavaScript", "Vue.js", "Firebase", "TailwindCSS"],
     "experience_years": 2,
     "projects": ["Portfolio Website", "Interactive Landing Page"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 382,
@@ -3445,7 +3445,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 383,
@@ -3463,7 +3463,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby", "Ruby on Rails", "Heroku", "Sidekiq"],
     "experience_years": 9,
     "projects": ["Subscription Billing Platform", "E-learning Portal"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 385,
@@ -3481,7 +3481,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 387,
@@ -3490,7 +3490,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Data Engineering", "Apache Spark", "Airflow", "Kafka"],
     "experience_years": 6,
     "projects": ["Real-time Data Pipeline", "Data Warehouse Modernization"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 388,
@@ -3508,7 +3508,7 @@ export const employees: Employee[] = [
     "skills": ["React Native", "Firebase", "JavaScript", "Redux"],
     "experience_years": 3,
     "projects": ["Cross-Platform Social App", "Mobile Inventory Manager"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 390,
@@ -3517,7 +3517,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 391,
@@ -3535,7 +3535,7 @@ export const employees: Employee[] = [
     "skills": ["SQL", "Tableau", "Power BI", "Data Warehousing", "ETL"],
     "experience_years": 10,
     "projects": ["Business Intelligence Dashboard Suite", "Sales Data Analysis Report"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 393,
@@ -3544,7 +3544,7 @@ export const employees: Employee[] = [
     "skills": ["Cybersecurity", "Penetration Testing", "Metasploit", "Wireshark"],
     "experience_years": 6,
     "projects": ["Vulnerability Assessment for a Financial App", "Network Security Audit"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 394,
@@ -3553,7 +3553,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 395,
@@ -3562,7 +3562,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "TypeScript", "RxJS", "NgRx", "SCSS"],
     "experience_years": 5,
     "projects": ["Enterprise Single Page Application (SPA)", "Data Visualization Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 396,
@@ -3571,7 +3571,7 @@ export const employees: Employee[] = [
     "skills": ["Machine Learning", "NLP", "spaCy", "NLTK", "Hugging Face"],
     "experience_years": 7,
     "projects": ["Sentiment Analysis Engine", "Chatbot for Customer Service"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 397,
@@ -3589,7 +3589,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 399,
@@ -3598,7 +3598,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Figma", "Sketch", "Adobe XD", "User Research"],
     "experience_years": 6,
     "projects": ["Mobile App Redesign", "Website Usability Testing"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 400,
@@ -3616,7 +3616,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Flask", "SQLAlchemy", "Jinja2", "REST APIs"],
     "experience_years": 4,
     "projects": ["Lightweight Microservice", "Blogging Platform API"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 402,
@@ -3625,7 +3625,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 403,
@@ -3643,7 +3643,7 @@ export const employees: Employee[] = [
     "skills": ["Elixir", "Phoenix", "Ecto", "LiveView"],
     "experience_years": 6,
     "projects": ["Fault-Tolerant Web Application", "Real-time Collaboration Tool"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 405,
@@ -3661,7 +3661,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 407,
@@ -3670,7 +3670,7 @@ export const employees: Employee[] = [
     "skills": ["Svelte", "SvelteKit", "JavaScript", "Vite"],
     "experience_years": 2,
     "projects": ["Fast Static Blog", "Component Library"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 408,
@@ -3688,7 +3688,7 @@ export const employees: Employee[] = [
     "skills": ["WordPress", "PHP", "JavaScript", "Elementor", "WooCommerce"],
     "experience_years": 7,
     "projects": ["Custom Theme for a Corporate Client", "Multi-vendor Marketplace"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 410,
@@ -3697,7 +3697,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 411,
@@ -3715,7 +3715,7 @@ export const employees: Employee[] = [
     "skills": ["Perl", "Mojolicious", "DBI", "Legacy Code Maintenance"],
     "experience_years": 15,
     "projects": ["Data Migration Scripting", "System Administration Automation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 413,
@@ -3724,7 +3724,7 @@ export const employees: Employee[] = [
     "skills": ["React", "Next.js", "Vercel", "GraphQL", "Server-Side Rendering"],
     "experience_years": 4,
     "projects": ["High-Performance Marketing Website", "Jamstack Blog"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 414,
@@ -3733,7 +3733,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 415,
@@ -3742,7 +3742,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "scikit-learn", "XGBoost", "Feature Engineering"],
     "experience_years": 5,
     "projects": ["Credit Scoring Model", "Customer Lifetime Value Prediction"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 416,
@@ -3751,7 +3751,7 @@ export const employees: Employee[] = [
     "skills": ["Node.js", "TypeScript", "Serverless Framework", "AWS Lambda", "DynamoDB"],
     "experience_years": 6,
     "projects": ["Serverless API Backend", "Event-Driven Architecture"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 417,
@@ -3769,7 +3769,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 419,
@@ -3778,7 +3778,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "NgRx", "PrimeNG", "Jasmine", "Karma"],
     "experience_years": 6,
     "projects": ["Financial Services Portal", "Internal Admin Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 420,
@@ -3796,7 +3796,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Spring Boot", "WebFlux", "Reactive Programming"],
     "experience_years": 5,
     "projects": ["Reactive Microservice", "Live Data Streaming API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 422,
@@ -3805,7 +3805,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 423,
@@ -3823,7 +3823,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Machine Learning", "scikit-learn", "Pandas", "AWS"],
     "experience_years": 4,
     "projects": ["Patient Risk Prediction System", "Fraud Detection Service"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 425,
@@ -3832,7 +3832,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 426,
@@ -3850,7 +3850,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "TensorFlow", "PyTorch", "Computer Vision", "Keras"],
     "experience_years": 6,
     "projects": ["Image Recognition System", "Autonomous Vehicle Perception Module"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 428,
@@ -3859,7 +3859,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 429,
@@ -3877,7 +3877,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Android Development", "Jetpack Compose", "Firebase"],
     "experience_years": 5,
     "projects": ["Food Delivery Android App", "Social Networking Mobile App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 431,
@@ -3886,7 +3886,7 @@ export const employees: Employee[] = [
     "skills": ["HTML", "CSS", "JavaScript", "Vue.js", "Firebase", "TailwindCSS"],
     "experience_years": 2,
     "projects": ["Portfolio Website", "Interactive Landing Page"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 432,
@@ -3895,7 +3895,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 433,
@@ -3904,7 +3904,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Django", "Celery", "Redis", "PostgreSQL"],
     "experience_years": 5,
     "projects": ["Task Management System", "Content Management System (CMS)"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 434,
@@ -3913,7 +3913,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby", "Ruby on Rails", "Heroku", "Sidekiq"],
     "experience_years": 9,
     "projects": ["Subscription Billing Platform", "E-learning Portal"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 435,
@@ -3931,7 +3931,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 437,
@@ -3949,7 +3949,7 @@ export const employees: Employee[] = [
     "skills": ["Terraform", "Ansible", "Jenkins", "AWS", "Kubernetes"],
     "experience_years": 8,
     "projects": ["Infrastructure as Code (IaC) Setup", "CI/CD Pipeline Automation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 439,
@@ -3958,7 +3958,7 @@ export const employees: Employee[] = [
     "skills": ["React Native", "Firebase", "JavaScript", "Redux"],
     "experience_years": 3,
     "projects": ["Cross-Platform Social App", "Mobile Inventory Manager"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 440,
@@ -3967,7 +3967,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 441,
@@ -3976,7 +3976,7 @@ export const employees: Employee[] = [
     "skills": ["Flutter", "Dart", "Firebase", "BLoC Pattern"],
     "experience_years": 2,
     "projects": ["Recipe App (iOS/Android)", "Local Events Finder App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 442,
@@ -3985,7 +3985,7 @@ export const employees: Employee[] = [
     "skills": ["SQL", "Tableau", "Power BI", "Data Warehousing", "ETL"],
     "experience_years": 10,
     "projects": ["Business Intelligence Dashboard Suite", "Sales Data Analysis Report"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 443,
@@ -4003,7 +4003,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 445,
@@ -4021,7 +4021,7 @@ export const employees: Employee[] = [
     "skills": ["Machine Learning", "NLP", "spaCy", "NLTK", "Hugging Face"],
     "experience_years": 7,
     "projects": ["Sentiment Analysis Engine", "Chatbot for Customer Service"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 447,
@@ -4030,7 +4030,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "D3.js", "Three.js", "WebGL"],
     "experience_years": 5,
     "projects": ["Interactive Data Visualization Gallery", "3D Product Configurator"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 448,
@@ -4039,7 +4039,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 449,
@@ -4048,7 +4048,7 @@ export const employees: Employee[] = [
     "skills": ["UI/UX Design", "Figma", "Sketch", "Adobe XD", "User Research"],
     "experience_years": 6,
     "projects": ["Mobile App Redesign", "Website Usability Testing"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 450,
@@ -4057,7 +4057,7 @@ export const employees: Employee[] = [
     "skills": ["Rust", "Actix", "Tokio", "Diesel"],
     "experience_years": 3,
     "projects": ["Secure Web Service", "Systems Programming Utility"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 451,
@@ -4075,7 +4075,7 @@ export const employees: Employee[] = [
     "skills": ["DevOps", "Azure DevOps", "PowerShell", "ARM Templates"],
     "experience_years": 7,
     "projects": ["CI/CD Pipeline for .NET Applications", "Azure Infrastructure Automation"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 453,
@@ -4084,7 +4084,7 @@ export const employees: Employee[] = [
     "skills": ["GCP", "BigQuery", "Dataflow", "Cloud Functions"],
     "experience_years": 5,
     "projects": ["Serverless Data Processing Workflow", "Big Data Analytics Platform"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 454,
@@ -4102,7 +4102,7 @@ export const employees: Employee[] = [
     "skills": ["QA", "Selenium", "Cypress", "Jira", "Automated Testing"],
     "experience_years": 5,
     "projects": ["E-commerce Test Automation Suite", "Regression Testing for SaaS"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 456,
@@ -4111,7 +4111,7 @@ export const employees: Employee[] = [
     "skills": ["C++", "Qt", "Boost", "CMake"],
     "experience_years": 12,
     "projects": ["Desktop Scientific Application", "High-Frequency Trading System"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 457,
@@ -4120,7 +4120,7 @@ export const employees: Employee[] = [
     "skills": ["Svelte", "SvelteKit", "JavaScript", "Vite"],
     "experience_years": 2,
     "projects": ["Fast Static Blog", "Component Library"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 458,
@@ -4129,7 +4129,7 @@ export const employees: Employee[] = [
     "skills": ["Linux", "Bash Scripting", "Nginx", "System Administration"],
     "experience_years": 10,
     "projects": ["Server Fleet Management", "Web Server Performance Tuning"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 459,
@@ -4147,7 +4147,7 @@ export const employees: Employee[] = [
     "skills": ["Haskell", "Yesod", "Persistent", "Functional Programming"],
     "experience_years": 5,
     "projects": ["Type-Safe Web API", "Compiler for a DSL"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 461,
@@ -4156,7 +4156,7 @@ export const employees: Employee[] = [
     "skills": ["Solidity", "Ethereum", "Web3.js", "Truffle", "Smart Contracts"],
     "experience_years": 3,
     "projects": ["Decentralized Application (dApp)", "NFT Marketplace"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 462,
@@ -4174,7 +4174,7 @@ export const employees: Employee[] = [
     "skills": ["React", "Next.js", "Vercel", "GraphQL", "Server-Side Rendering"],
     "experience_years": 4,
     "projects": ["High-Performance Marketing Website", "Jamstack Blog"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 464,
@@ -4183,7 +4183,7 @@ export const employees: Employee[] = [
     "skills": ["Java", "Android", "RxJava", "Dagger", "Retrofit"],
     "experience_years": 8,
     "projects": ["Video Streaming App", "Offline-First Mobile Application"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 465,
@@ -4192,7 +4192,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "scikit-learn", "XGBoost", "Feature Engineering"],
     "experience_years": 5,
     "projects": ["Credit Scoring Model", "Customer Lifetime Value Prediction"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 466,
@@ -4201,7 +4201,7 @@ export const employees: Employee[] = [
     "skills": ["Node.js", "TypeScript", "Serverless Framework", "AWS Lambda", "DynamoDB"],
     "experience_years": 6,
     "projects": ["Serverless API Backend", "Event-Driven Architecture"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 467,
@@ -4219,7 +4219,7 @@ export const employees: Employee[] = [
     "skills": ["Ruby on Rails", "PostgreSQL", "RSpec", "Capybara"],
     "experience_years": 7,
     "projects": ["Project Management Tool", "Online Forum"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 469,
@@ -4228,7 +4228,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "NgRx", "PrimeNG", "Jasmine", "Karma"],
     "experience_years": 6,
     "projects": ["Financial Services Portal", "Internal Admin Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 470,
@@ -4246,7 +4246,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Spring Boot", "WebFlux", "Reactive Programming"],
     "experience_years": 5,
     "projects": ["Reactive Microservice", "Live Data Streaming API"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 472,
@@ -4255,7 +4255,7 @@ export const employees: Employee[] = [
     "skills": ["Elasticsearch", "Logstash", "Kibana", "ELK Stack"],
     "experience_years": 8,
     "projects": ["Centralized Logging Platform", "Search Engine for Application Logs"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 473,
@@ -4273,7 +4273,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Machine Learning", "scikit-learn", "Pandas", "AWS"],
     "experience_years": 4,
     "projects": ["Patient Risk Prediction System", "Fraud Detection Service"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 475,
@@ -4282,7 +4282,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"],
     "experience_years": 3,
     "projects": ["Social Media App", "Real-time Chat Application"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 476,
@@ -4300,7 +4300,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "TensorFlow", "PyTorch", "Computer Vision", "Keras"],
     "experience_years": 6,
     "projects": ["Image Recognition System", "Autonomous Vehicle Perception Module"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 478,
@@ -4309,7 +4309,7 @@ export const employees: Employee[] = [
     "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Blazor"],
     "experience_years": 8,
     "projects": ["Enterprise Resource Planning (ERP) System", "Cloud-Native CRM"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 479,
@@ -4327,7 +4327,7 @@ export const employees: Employee[] = [
     "skills": ["Kotlin", "Android Development", "Jetpack Compose", "Firebase"],
     "experience_years": 5,
     "projects": ["Food Delivery Android App", "Social Networking Mobile App"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 481,
@@ -4345,7 +4345,7 @@ export const employees: Employee[] = [
     "skills": ["Go", "Gin", "PostgreSQL", "Docker", "gRPC"],
     "experience_years": 6,
     "projects": ["High-Performance API Gateway", "Distributed Logging System"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 483,
@@ -4354,7 +4354,7 @@ export const employees: Employee[] = [
     "skills": ["Python", "Django", "Celery", "Redis", "PostgreSQL"],
     "experience_years": 5,
     "projects": ["Task Management System", "Content Management System (CMS)"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 484,
@@ -4372,7 +4372,7 @@ export const employees: Employee[] = [
     "skills": ["PHP", "Laravel", "MySQL", "Vue.js", "Nginx"],
     "experience_years": 7,
     "projects": ["Booking System", "Custom E-commerce Site"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 486,
@@ -4381,7 +4381,7 @@ export const employees: Employee[] = [
     "skills": ["TypeScript", "Node.js", "NestJS", "TypeORM", "GraphQL"],
     "experience_years": 4,
     "projects": ["GraphQL API for Analytics", "Real-time Notification Service"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 487,
@@ -4399,7 +4399,7 @@ export const employees: Employee[] = [
     "skills": ["Terraform", "Ansible", "Jenkins", "AWS", "Kubernetes"],
     "experience_years": 8,
     "projects": ["Infrastructure as Code (IaC) Setup", "CI/CD Pipeline Automation"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 489,
@@ -4408,7 +4408,7 @@ export const employees: Employee[] = [
     "skills": ["React Native", "Firebase", "JavaScript", "Redux"],
     "experience_years": 3,
     "projects": ["Cross-Platform Social App", "Mobile Inventory Manager"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 490,
@@ -4417,7 +4417,7 @@ export const employees: Employee[] = [
     "skills": ["R", "Shiny", "Tidyverse", "ggplot2", "Statistics"],
     "experience_years": 5,
     "projects": ["Statistical Analysis Dashboard", "Clinical Trial Data Visualization"],
-    "availability": "unavailable"
+    "availability": "available"
   },
   {
     "id": 491,
@@ -4426,7 +4426,7 @@ export const employees: Employee[] = [
     "skills": ["Flutter", "Dart", "Firebase", "BLoC Pattern"],
     "experience_years": 2,
     "projects": ["Recipe App (iOS/Android)", "Local Events Finder App"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 492,
@@ -4435,7 +4435,7 @@ export const employees: Employee[] = [
     "skills": ["SQL", "Tableau", "Power BI", "Data Warehousing", "ETL"],
     "experience_years": 10,
     "projects": ["Business Intelligence Dashboard Suite", "Sales Data Analysis Report"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 493,
@@ -4453,7 +4453,7 @@ export const employees: Employee[] = [
     "skills": ["Unity", "C#", "Game Development", "3D Modeling"],
     "experience_years": 4,
     "projects": ["Mobile Puzzle Game", "VR Training Simulation"],
-    "availability": "unavailable"
+    "availability": "in 2 weeks"
   },
   {
     "id": 495,
@@ -4462,7 +4462,7 @@ export const employees: Employee[] = [
     "skills": ["Angular", "TypeScript", "RxJS", "NgRx", "SCSS"],
     "experience_years": 5,
     "projects": ["Enterprise Single Page Application (SPA)", "Data Visualization Dashboard"],
-    "availability": "available"
+    "availability": "busy"
   },
   {
     "id": 496,
@@ -4480,7 +4480,7 @@ export const employees: Employee[] = [
     "skills": ["JavaScript", "D3.js", "Three.js", "WebGL"],
     "experience_years": 5,
     "projects": ["Interactive Data Visualization Gallery", "3D Product Configurator"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   },
   {
     "id": 498,
@@ -4489,7 +4489,7 @@ export const employees: Employee[] = [
     "skills": ["Scala", "Akka", "Play Framework", "SBT"],
     "experience_years": 8,
     "projects": ["Concurrent Data Processing System", "Real-time Bidding Platform"],
-    "availability": "unavailable"
+    "availability": "busy"
   },
   {
     "id": 499,
@@ -4507,6 +4507,7 @@ export const employees: Employee[] = [
     "skills": ["Rust", "Actix", "Tokio", "Diesel"],
     "experience_years": 3,
     "projects": ["Secure Web Service", "Systems Programming Utility"],
-    "availability": "available"
+    "availability": "in 2 weeks"
   }
 ]
+
