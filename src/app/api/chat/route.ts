@@ -18,12 +18,8 @@ export async function POST(req: NextRequest) {
   const lastUser = query ?? messages?.slice().reverse().find((m) => m.role === 'user')?.content ?? ''
   const parsed = parseQuery(lastUser)
   const matches = searchEmployees(lastUser, employees, parsed).slice(0, 6)
-
-
-  const deterministicAnswer = buildAnswer(lastUser, matches)
-
   
-  let answer = deterministicAnswer
+  
   if (process.env.OPENAI_API_KEY) {
     try {
       const context = matches
@@ -46,7 +42,7 @@ ${context}
 
 Write a clear, helpful paragraph recommending 2-4 candidates and briefly stating why they fit.`,
       })
-      answer = text || deterministicAnswer
+     let answer = text
     } catch {
       // fall back silently
     }
@@ -56,19 +52,4 @@ Write a clear, helpful paragraph recommending 2-4 candidates and briefly stating
     answer,
     results: matches,
   })
-}
-
-function buildAnswer(query: string, matches: ReturnType<typeof searchEmployees>) {
-  if (!matches.length) {
-    return `I couldn't find strong matches for "${query}". Try adding more details like specific skills (e.g., Python, AWS), minimum years of experience, or relevant domains (e.g., healthcare, fintech).`
-  }
-  const top = matches.slice(0, 3)
-  const lines = top.map(
-    (m) =>
-      `${m.employee.name} — ${m.employee.experience_years} yrs; availability: ${m.employee.availability}. ` +
-      `Relevant: ${[...new Set([...m.matchedSkills, ...m.matchedDomains])].slice(0, 3).join(', ')}.`
-  )
-  return `Based on your request "${query}", here are promising candidates:\n- ${lines.join(
-    '\n- '
-  )}\n\nWould you like me to share more details about their recent projects or confirm their availability for a meeting?`
 }
