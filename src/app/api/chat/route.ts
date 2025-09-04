@@ -19,7 +19,7 @@ export async function POST(req: NextRequest) {
   const parsed = parseQuery(lastUser)
   const matches = searchEmployees(lastUser, employees, parsed).slice(0, 6)
   
-  
+  let answer;
   if (process.env.OPENAI_API_KEY) {
     try {
       const context = matches
@@ -42,7 +42,7 @@ ${context}
 
 Write a clear, helpful paragraph recommending 2-4 candidates and briefly stating why they fit.`,
       })
-     let answer = text
+    answer = text
     } catch {
       // fall back silently
     }
