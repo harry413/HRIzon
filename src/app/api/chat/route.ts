@@ -17,10 +17,11 @@ export async function POST(req: NextRequest) {
 
   const lastUser = query ?? messages?.slice().reverse().find((m) => m.role === 'user')?.content ?? ''
   const parsed = parseQuery(lastUser)
-  const matches = searchEmployees(lastUser, employees, parsed).slice(0, 6)
+  const matches = searchEmployees(lastUser, employees, parsed).slice(0, 50)
+  
   let ANS;
   if (process.env.OPENAI_API_KEY) {
-    try {
+    try { 
       const context = matches
         .map(
           (m, i) =>
@@ -31,19 +32,15 @@ Why: ${m.reasons.join('; ')}`
         )
         .join('\n\n')
 
-      const { text } = await generateText({
-        model: openai('gpt-4o'),
-        system:
-          'You are a concise, professional HR assistant. Tailor recommendations to the user’s request. Be factual and avoid exaggeration. End with an offer to provide more details or check availability.',
-        prompt: `User query: "${lastUser}"
-Here are the top candidates from our search:
-${context}
-
-Write a clear, helpful paragraph recommending 2-4 candidates and briefly stating why they fit.`,
+      let result = await generateText({
+        model: openai('gpt-5'),
+        system:'You are a concise, professional HR assistant. Tailor recommendations to the user’s request. Be factual and avoid exaggeration. End with an offer to provide more details or check availability.',
+        prompt: `User query: "${lastUser}" Here are the top candidates from our search: ${context} Write a clear, helpful paragraph recommending all candidates and briefly stating why they fit.`,
       })
-  ANS= text
-    } catch {
-      // fall back silently
+    ANS = result.text;
+    } catch (e){
+      ANS = "AI service is currently unavailable. Here are the top matches we found:"
+      console.log("AI service is currently unavailable. Here are the top matches we found:", e);
     }
   }
 
