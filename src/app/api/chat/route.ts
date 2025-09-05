@@ -17,7 +17,7 @@ export async function POST(req: NextRequest) {
 
   const lastUser = query ?? messages?.slice().reverse().find((m) => m.role === 'user')?.content ?? ''
   const parsed = parseQuery(lastUser)
-  const matches = searchEmployees(lastUser, employees, parsed).slice(0, 50)
+  const matches = searchEmployees(lastUser, employees, parsed).slice(0, 10)
   
   let ANS;
   if (process.env.OPENAI_API_KEY) {
@@ -38,14 +38,13 @@ Why: ${m.reasons.join('; ')}`
         prompt: `User query: "${lastUser}" Here are the top candidates from our search: ${context} Write a clear, helpful paragraph recommending all candidates and briefly stating why they fit.`,
       })
     ANS = result.text;
-    } catch (e){
-      ANS = "AI service is currently unavailable. Here are the top matches we found:"
-      console.log("AI service is currently unavailable. Here are the top matches we found:", e);
+    } catch {
+      console.log("AI service is currently unavailable. Here are the top matches we found:");
     }
   }
 
   return Response.json({
-   ANS,
+     ANS: ANS ?? "AI could not generate a summary. Here are the top matches:",
     results: matches,
   })
 }
